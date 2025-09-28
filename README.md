@@ -1,4 +1,4 @@
-# TIENDA DE CALZADO
+# TIENDA VENTA DE CALZADOS
 Proyecto Tienda de Calzados - SISE
 
 # Detalles del Proyecto
@@ -11,8 +11,8 @@ El presente proyecto tiene como finalidad presentar el desarrollo de una aplicac
 Actualmente incluye funcionalidades básicas como: Inicio de sesion, gestion de ventas, reportes de ventas.  
 
 # Objetivo del Proyecto
-Simular la gestión básica de un restaurante.
-Implementar funcionalidades como pedidos, mesas y menú.
+Simular la gestión básica de una tienda de calzados.
+Implementar funcionalidades como pedido de compras, categoria de calzados.
 Probar el uso de Java en aplicaciones orientadas a objetos.
 
 # Tecnologías utilizadas
