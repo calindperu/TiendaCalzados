@@ -11,7 +11,9 @@ El presente proyecto tiene como finalidad presentar el desarrollo de una aplicac
 Actualmente incluye funcionalidades básicas como: Inicio de sesion, gestion de ventas, reportes de ventas.  
 
 # Objetivo del Proyecto
-Autor: Carlos Felix Gamarra Huatuco
+Simular la gestión básica de un restaurante.
+Implementar funcionalidades como pedidos, mesas y menú.
+Probar el uso de Java en aplicaciones orientadas a objetos.
 
 # Tecnologías utilizadas
 Lenguaje: Java
