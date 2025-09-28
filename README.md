@@ -7,8 +7,7 @@ Fecha de creación: 20 de septiembre de 2025
 Repositorio: GitHub
 
 # Descripción
-El presente proyecto tiene como finalidad presentar el desarrollo de una aplicación de gestión de ventas de calzados para damas, varones y niños.
-Actualmente incluye funcionalidades básicas como: Inicio de sesion, gestion de ventas, reportes de ventas.  
+El presente proyecto tiene como finalidad simular la gestión básica de una tienda de calzado, incorporando funcionalidades esenciales como la administración de pedidos de compra y la clasificación de los productos por categorías. Asimismo, se busca aplicar y fortalecer los conocimientos en programación orientada a objetos mediante el uso del lenguaje Java
 
 # Objetivo del Proyecto
 Simular la gestión básica de una tienda de calzados.
